@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The consequences of tolerating gold and silver to be exported out of this kingdom, discovered; and the manner how the coin of this nation has been destroy'd; and likewise how the French king may reasonably be supposed to have supplies of lion-dollars to furnish the Turks withal to carry on the Wars against the German emperor.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1692</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B02351</idno>
+            <idno type="STC">Wing C5900C</idno>
+            <idno type="STC">ESTC R214030</idno>
+            <idno type="EEBO-CITATION">47012973</idno>
+            <idno type="OCLC">ocm 47012973</idno>
+            <idno type="VID">174324</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B02351)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174324)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2684:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The consequences of tolerating gold and silver to be exported out of this kingdom, discovered; and the manner how the coin of this nation has been destroy'd; and likewise how the French king may reasonably be supposed to have supplies of lion-dollars to furnish the Turks withal to carry on the Wars against the German emperor.</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London?,</pubPlace>
+                  <date>1692?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from head of p. 1.</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>East India Company.</term>
+               <term>Gold --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Silver --  Law and legislation --  Great Britain --  Early works to 1800.</term>
+               <term>Export controls --  Great Britain.</term>
+               <term>Great Britain --  Foreign trade regulation --  Early works to 1800.</term>
+               <term>Great Britain --  Foreign relations --  France --  1648-1715.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:174324:1" rendition="simple:additions"/>
+            <head>The Conſequences of Tolerating <hi>GOLD</hi> and <hi>SILVER</hi> to be exported out of this Kingdom, diſcovered; and the Manner how the <hi>Coin</hi> of this Nation has been De<g ref="char:EOLhyphen"/>ſtroy'd; and likewiſe how the <hi>French King</hi> may reaſon<g ref="char:EOLhyphen"/>ably be ſuppoſed to have Supplies of <hi>Lion-Dollars</hi> to furniſh the <hi>Turks</hi> withal to carry on the <hi>Wars</hi> againſt the <hi>German Emperor.</hi>
+            </head>
+            <p>IN the Fifteenth of King <hi>Charles</hi> the Second, an Act was made, Intituled <hi>Trade Incouraged;</hi> wherein, amongſt other things, a Clauſe is inſerted as followeth:</p>
+            <p>
+               <hi>Foraſmuch as ſeveral conſiderable and advantageous Trades cannot be con<g ref="char:EOLhyphen"/>veniently driven and carried on without the Species of Money and Bullion, and that it is found by experience, that they are carried in greateſt abundance, as to a Common Market, to ſuch places as give free Liberty for exporting the ſame; and the better to keep in and increaſe the Currant Coin of this King<g ref="char:EOLhyphen"/>dom, be it enacted, and it is hereby enacted, That, from and after the day there<g ref="char:EOLhyphen"/>in mentioned, it ſhall and may be Lawful for all Perſons to export out of any part in</hi> England <hi>or</hi> Wales, <hi>or out of the Town of</hi> Berwick <hi>upon</hi> Tweed, <hi>all ſorts of Foreign Coin or Bullion of Gold or Silver, firſt making entry thereof re<g ref="char:EOLhyphen"/>ſpectively, without paying any Cuſtom or Fee for the ſame.</hi>
+            </p>
+            <p>It is moſt certainly true, that of all the Laws that ever were made in <hi>England,</hi> that are now extant, none ever countenanced ſuch a Liberty as this; but on the contrary, did ſtrictly prohibit the Exportation, not only of Bullion in general, but alſo Foreign Coins, and all Veſſels of Gold and Silver whatſoever, upon the Penalties either of Fellons, Forfeitures or Impriſonments.</p>
+            <p>It was by the endeavours of ſome Members of the <hi>Eaſt-India Company,</hi> aſſiſted by ſome eminent Bankers, that this Liberty was obtained; and the Cuſtom-Houſe Books do atteſt, That they have made very great uſe of it: for this Li<g ref="char:EOLhyphen"/>berty has created ſuch a way of Trading betwixt the <hi>Eaſt-India Company</hi> and ſome Bankers, as tends directly to the Impoveriſhing this Nation, and to Inrich them<g ref="char:EOLhyphen"/>ſelves. Of all the Conſiderable Summs of Moneys that have been yearly coined ſince the Reſtoration, very little remains; nor will it ever be otherwiſe, ſo long as the Bankers have Melting-places in their Cellars, and liberty to ex<g ref="char:EOLhyphen"/>port
+<pb n="2" facs="tcp:174324:2"/>it when Melted as Foreign Bullion. It is for very good Reaſons be<g ref="char:EOLhyphen"/>lieved by many who Trade in Silver and Gold, that in thoſe Times when the Mint was employ'd, that great part of the Moneys then Coined, by Culling it and Melting the heavieſt and ſending it to the Mint again, much of it was Coined two or three times over, and which has likewiſe been cuſtomary, and of as bad conſequence, to raiſe the Price of Silver at the times of Exportation Three half pence or Two pence <hi>per</hi> Ounce above the value at the Mint, thereby to encourage the Melting down the Mill'd and Heavy Money into the form of Foreign Bullion, the more conveniently to ex<g ref="char:EOLhyphen"/>port it.</p>
+            <p>And although this hath been a practice of as long continuance as the liberty of Exportation, it never became ſo ſenſible a Grievance as ſince this preſent War with <hi>France:</hi> In all the quantities of Silver that have been im<g ref="char:EOLhyphen"/>ported for ſome Years paſt, Their Majeſties <hi>Mint</hi> is no ways concerned, nor can it be expected ſo long as the <hi>Jews</hi> and ſome others will give Five Shillings and Four Pence <hi>per</hi> Ounce for Sterling Silver, or upward, by the Eſſay here, to ſend it to their Correſpondents in <hi>Holland,</hi> and can have re<g ref="char:EOLhyphen"/>turns made by Bills to receive Five Shillings and Seven Pence, or Five Shillings and Eight Pence for it here in <hi>England,</hi> as hath been acknowledg<g ref="char:EOLhyphen"/>ed by ſome Perſons much concerned in this way of Trade.</p>
+            <p>There muſt be a dark kind of Myſtery in this buſineſs, which, being well underſtood, might direct us to a proper Remedy; but if it be inquired in<g ref="char:EOLhyphen"/>to, one will pretend the Change is very low, and that muſt paſs for a Pretence; another will pretend the Exigencies of the Wars, and that is the beſt Account that he can give of it. But to ſpeak the truth, the ſending of ſuch great quantities of Silver into <hi>Holland</hi> is attended with ſuch extraor<g ref="char:EOLhyphen"/>dinary Profit to themſelves, and Prejudice to the Publick, that thoſe who are concerned in it, are deſirous to keep it from being underſtood by any but themſelves; and perhaps many of them do not well know to what uſes the Silver they ſend there is imployed: If we inquire of thoſe Gentlemen that have travelled this laſt Campagne into <hi>Holland</hi> and <hi>Flanders,</hi> they will tell us, That our Crown-Pieces are not worth ſo much in <hi>Holland</hi> as they go for here, in common Payment, which is ſeemingly a Contradiction: but herein lies the Myſtery; The <hi>Jews</hi> in <hi>Holland</hi> have the liberty granted them to Coin what Silver they do Import as Merchandice, into <hi>Lion Dollars,</hi> which are properly the King of <hi>Denmark</hi>'s Coin, though they do not Coin them for to ſend into his Countries, but to ſupply the <hi>Turks,</hi> as alſo the <hi>French King,</hi> who is much concerned to keep up the Alliance that is betwixt him and the Grand <hi>Turk.</hi> The Profits in Coining <hi>Lion Dollars</hi> for this Occaſion is ſo conſiderable, that ſome Gentlemen, if we may believe them, who have been much concerned in ſending Silver into <hi>Holland,</hi> would have given our King 20000 <hi>
+                  <abbr>l.</abbr> per Annum,</hi> to have had the Liberty of Coining them here in <hi>England;</hi> which unfolds the Myſtery of the <hi>Jews</hi> in <hi>Holland,</hi> giving Five Shillings and Seven Pence, or Five Shillings and Eight Pence <hi>per</hi> Ounce, for what Silver they Import from hence, when at the ſame time our Crown pieces will not yield more in <hi>Holland</hi> for common Uſes, than what they go
+<pb n="3" facs="tcp:174324:2" rendition="simple:additions"/>for in Payments here in <hi>England.</hi> It is obſervable from the Bills of Entry, that our <hi>Turky</hi> Company did formerly ſend out conſiderable Quantities of Dol<g ref="char:EOLhyphen"/>lars and Pieces of Eight in their Way of Trade; and likewiſe that our <hi>East-India</hi> Company did ſend out vaſt Quantities both of Bullion and Foreign Coins, which if now they ſhould require the like, would find it a very difficult Mat<g ref="char:EOLhyphen"/>ter to be ſupplied, if ſome Expedient be not found out to hinder the Treaſure of this Nation from being Exported by the <hi>Jews</hi> and others, for the Uſe and Pur<g ref="char:EOLhyphen"/>poſes aforeſaid. It appears by the Bills of Entry, That from the Twenty-fourth of <hi>May</hi> 1689, to this preſent time, there hath been exported into <hi>Holland,</hi> Bullion or melted Silver 2315615 Ounces, Pieces of Eight and Dollars in Number 481357, by which means the Currant Coin of this Kingdom is much Deſtroyed, and the Subjects Impoveriſhed, and the <hi>French</hi> King enabled to ſupply the <hi>Turks</hi> with <hi>Lion-Dollars,</hi> which paſs for Currant Moneys in thoſe Countries, the better to maintain War againſt the <hi>German</hi> Emperor.</p>
+            <p>Having diſcovered in General, the Ill Conſequences of Exporting Silver and Gold, it may neceſſarily follow, that ſome uſeful Obſervations be made from the Statute, on which the Liberty of Exportation is grounded.</p>
+            <p>
+               <hi>Firſt,</hi> It is obſervable from the ſaid Statute, that the Reaſons for granting ſuch a Liberty, was. That ſome Conſiderable and Advantageous Trades might better be driven and carried on; which Trades do appear by the Books of En<g ref="char:EOLhyphen"/>try at the <hi>Cuſtom-Houſe,</hi> to be the <hi>Eaſt-India</hi> and <hi>Turkey</hi> Trades; but the liberty of Exportation extending to all Perſons, has given Opportunity to the <hi>Jews</hi> in <hi>Holland,</hi> to Employ their Factors here, to buy up all the Silver they can for their Uſe. Whereas, had the Liberty of Exportation been reſtrained to the Trades before-mentioned, it might reaſonably be believed, that our Mill'd Money had at this Time been much more plentiful; and the <hi>French King,</hi> for want of <hi>Lion-Dollars,</hi> incapacitated to keep up the Alliance betwixt him and the <hi>Turks.</hi>
+            </p>
+            <p>
+               <hi>Secondly,</hi> We may likewiſe obſerve, that by this Liberty it was expected, the Currant Coin of this Kingdom ſhould have been kept in and encreaſed; but the Effects being found by Experience to the Contrary, the Cauſe muſt be wholly Attributed to the Exporters, and thoſe who ſupply them with Silver and Gold to export. (They) as hath been cuſtomary at the times of Exporta<g ref="char:EOLhyphen"/>tions, and is obſerved in the General raiſing the Price of Bullion, Three Half-pence or Two Pence <hi>per</hi> Ounce above the value at the Mint, thereby to en<g ref="char:EOLhyphen"/>courage the melting down the heavy Moneys for them to export. For preventing Abuſes of the like Nature, it would (with ſubmiſſion) be much for the In<g ref="char:EOLhyphen"/>tereſt of this Kingdom, if the Liberty of exporting any Bullion once melted or wrought in <hi>England</hi> were totally prohibited, and a Duty laid upon all Foreign Coins and Foreign Bullion, that ſhould hereafter be exported. By this means the Mint would be employed, and the Coin preſerved, and the ex<g ref="char:EOLhyphen"/>porting the many Factories of this Kingdom encouraged, and the Conſiderable Trades before-mentioned no ways deprived of the Liberty of exporting ſuch Silver as is properly Foreign.</p>
+            <pb n="4" facs="tcp:174324:3" rendition="simple:additions"/>
+            <p>
+               <hi>Thirdly,</hi> In the laſt Place we ſhall obſerve what Effects the Lightning our Coin will have (that being propoſed by ſome Men, who have had a large ſhare in the Exporting of Bullion) as the moſt effectual Remedy for prevent<g ref="char:EOLhyphen"/>ing the Abuſes herein diſcover'd: Suppoſing then that our Crown Pieces be for the future Coined a Penny in each Piece lighter than formerly, which is Twelve Pence in the Pound Weight Troy. If the Profits hereby do accrue to the Party that brings Silver to the Mint to be Coined, the Effects then will be this; The Price of Silver will be raiſed from Five Shillings and Two Pence at the Mint, to Five Shillings and Three Pence. But then, if the <hi>Eaſt-India</hi> Company to Export it in their Way of Trade, or the <hi>Jews</hi> to Export it into <hi>Holland</hi> for to Coin <hi>Lion-Dollars,</hi> will give Five Shillings and Five Pence or Five Shillings and Six Pence <hi>per</hi> Ounce, which they will certainly do, ſo long as they have the Liberty to Export it when melted: There will then be the ſame Incouragement for melting the Coin as is now: But if in lightning our Coin this Method be taken, that the Profits thereby ſhall accrue to Their Ma<g ref="char:EOLhyphen"/>jeſties, it will then have very good Effects in preventing thoſe great Abuſes of Culling the Moneys after it is Coined, and melting the heavieſt to be Coin<g ref="char:EOLhyphen"/>ed a Second or ſome a Third Time; which, as is believed, hath been practiſed ever ſince the Liberty of Exportation was granted.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:174324:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
